@@ -1,6 +1,4 @@
-# Pong
-
-## Description
+# Pong game
 
 The game of [Pong](https://en.wikipedia.org/wiki/Pong).
 
